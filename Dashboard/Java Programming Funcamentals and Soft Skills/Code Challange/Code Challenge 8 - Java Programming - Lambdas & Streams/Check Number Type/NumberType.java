@@ -1,3 +1,3 @@
 public interface NumberType {
-    boolean checkNumber(int num);
+    boolean checkNumberType(int num);
 }
